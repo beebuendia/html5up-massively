@@ -298,7 +298,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: greenyellow !important;
 		}
 
 	strong, b {
@@ -3197,18 +3197,18 @@ input, select, textarea {
 	}
 
 		.pagination a:hover {
-			color: #18bfef !important;
-			border-color: #18bfef;
+			color: greenyellow !important;
+			border-color: greenyellow;
 			z-index: 1;
 		}
 
 			.pagination a:hover + a,
 			.pagination a:hover + span {
-				border-left-color: #18bfef;
+				border-left-color: #greenyellow;
 			}
 
 		.pagination a.active {
-			background-color: #eeeeee;
+			background-color: black;
 		}
 
 	.pagination span {
@@ -3324,7 +3324,7 @@ input, select, textarea {
 
 			#intro a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: greenyellow !important;
 			}
 
 		#intro strong, #intro b {
@@ -3533,7 +3533,7 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: greenyellow !important;
 			}
 
 		#header strong, #header b {
@@ -3654,7 +3654,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: greenyellow !important;
 			}
 
 		#nav strong, #nav b {
@@ -3730,7 +3730,7 @@ input, select, textarea {
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #18bfef !important;
+							color: greenyellow !important;
 						}
 
 		#nav ul.icons {
@@ -3974,7 +3974,7 @@ input, select, textarea {
 
 			#footer a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: greenyellow !important;
 			}
 
 		#footer strong, #footer b {
@@ -4168,7 +4168,7 @@ input, select, textarea {
 
 			#footer .pagination a:hover {
 				color: #18bfef !important;
-				border-color: #18bfef;
+				border-color: #honeydew;
 				z-index: 1;
 			}
 
